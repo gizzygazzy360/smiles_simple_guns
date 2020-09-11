@@ -1,0 +1,1 @@
+tag @a[tag=!ak47CanFire] add ak47CanFire

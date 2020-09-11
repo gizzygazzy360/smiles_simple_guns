@@ -1,0 +1,1 @@
+tag @a[tag=!famasCanFire] add famasCanFire

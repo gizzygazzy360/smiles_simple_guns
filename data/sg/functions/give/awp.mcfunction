@@ -1,0 +1,1 @@
+give @p carrot_on_a_stick{display:{Name:'{"text":"AWP","color":"white","italic":false}'},Unbreakable:1b,CustomModelData:21,AttributeModifiers:[{AttributeName:"generic.movement_speed",Name:"generic.movement_speed",Amount:-0.18,Operation:1,UUID:[I;1771894242,620577391,-1468626947,-637952257],Slot:"mainhand"}]} 1

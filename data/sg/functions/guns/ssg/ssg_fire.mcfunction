@@ -1,0 +1,1 @@
+tag @a[tag=!ssgCanFire] add ssgCanFire

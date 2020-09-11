@@ -1,0 +1,1 @@
+give @s carved_pumpkin{display:{Name:'{"text":"Gasmask","italic":false}'},CustomModelData:1} 1

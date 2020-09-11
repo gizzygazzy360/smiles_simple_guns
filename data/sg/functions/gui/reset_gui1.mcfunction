@@ -1,0 +1,1 @@
+replaceitem block ~ ~ ~ container.10 carrot_on_a_stick{objd:{gui:1b}} 

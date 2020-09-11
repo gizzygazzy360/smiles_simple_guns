@@ -1,0 +1,1 @@
+give @s carved_pumpkin{display:{Name:'{"text":"NV Goggles","italic":false}'},CustomModelData:2} 1

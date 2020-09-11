@@ -1,0 +1,1 @@
+tag @a[tag=!glockCanFire] add glockCanFire

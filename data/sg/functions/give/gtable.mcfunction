@@ -1,0 +1,1 @@
+give @s firework_rocket{display:{Name:'{"text":"Gunsmith Table","color":"white","italic":false}'},CustomModelData:1,sgBlock:1} 1

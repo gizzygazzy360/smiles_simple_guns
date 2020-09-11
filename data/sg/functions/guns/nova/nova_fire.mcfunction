@@ -1,0 +1,1 @@
+tag @a[tag=!novaCanFire] add novaCanFire

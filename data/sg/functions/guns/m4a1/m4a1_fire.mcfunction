@@ -1,0 +1,1 @@
+tag @a[tag=!m4a1CanFire] add m4a1CanFire

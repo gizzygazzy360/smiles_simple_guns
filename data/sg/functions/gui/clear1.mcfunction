@@ -1,0 +1,1 @@
+replaceitem block ~ ~ ~ container.10 minecraft:air 
