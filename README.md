@@ -1,6 +1,5 @@
 # smiles_simple_guns
-So, i decided to release my gun datapack on github making it open source.
-I personally don't really care to work on the pack anymore so yeah.
+I cant really finish this on my own. This project has been a burden for a while and I have wanted to make this open source for a while so here we are.
 
 If people create pull requests I will merge them into the main branch.
 
